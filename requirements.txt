@@ -35,7 +35,7 @@ SQLAlchemy==2.0.25
 starlette==0.35.1
 typing_extensions==4.9.0
 ujson==5.9.0
-urllib3==2.0.7
+urllib3==1.27
 uvicorn==0.25.0
 watchfiles==0.21.0
 websockets==12.0
