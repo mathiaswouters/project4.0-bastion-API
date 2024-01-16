@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   web:
-    image: r0879842/project4.0-bastion-API:latest
+    image: r0879842/project4_0-bastion-API:latest
     ports:
       - "8080:80"
     environment:
